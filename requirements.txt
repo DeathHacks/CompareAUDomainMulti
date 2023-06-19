@@ -1,0 +1,5 @@
+#Requirements for CompareAuDomainMulti.py
+#Author: Deathhacks
+#Version: 1.0
+pandas==1.5.1
+
